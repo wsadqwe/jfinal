@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>SpringMVC处理请求参数</h1>
+<h2>1HttpServletRequest</h2>
+<h3>注解使用位置</h3>
+<h2>HttpservletRequest</h2>
+<a href="@{/recHttpArgs(username='admin',password=123456}">recHttpArgs</a></br>
+<h2>PathVariable</h2>
+<a href="@{/recPathVariable/ikun/59123}">recPathVariable</a></br>
+<h2>MethodArgs</h2>
+<a href="@{/recmethodargs(username='admin',password=123456)}">recPathVariable</a></br>
+
+<h2>RequeseParam</h2>
+<a href="@{/recparam(username='user',password=123456)}">recparam</a></br>
+
+<a href="@{/recparam2(username='user',password=123456)}">recparam2</a></br>
+
+<a href="@{/recparam3(username='user',password=123456)}">recparam3</a></br>
+
+<a href="@{/recparam4(username='user',password=123456)}">recparam3</a></br>
+<a href="@{/recparam5(username='user',password=123456)}">recparam3</a></br>
+
+
+<h2>ReceiveBean</h2>
+<form action="@{/recbean}" method ="get">
+    姓名：<input type="text" name = "username"></br>
+    密码：<input type="password" name = "password"></br>
+    年龄：<input type="text" name = "age"></br>
+    性别：<input type="radio" name = "sex" value="男">男
+    <input type="radio" name = "sex" value="女">女</br>
+    邮箱：<input type="text" name = "email"></br>
+    <input type="submit" value ="">
+</form>
+<form action="@{/recbean2}" method ="get">
+    姓名：<input type="text" name = "username"></br>
+    密码：<input type="password" name = "password"></br>
+    年龄：<input type="text" name = "age"></br>
+    性别：<input type="radio" name = "sex" value="男">男
+    <input type="radio" name = "sex" value="女">女</br>
+    邮箱：<input type="text" name = "email"></br>
+    <input type="submit" value ="">
+</form>
+<form action="@{/recbean3}" method ="get">
+    姓名：<input type="text" name = "username"></br>
+    密码：<input type="password" name = "password"></br>
+    年龄：<input type="text" name = "age"></br>
+    性别：<input type="radio" name = "sex" value="男">男
+    <input type="radio" name = "sex" value="女">女</br>
+    邮箱：<input type="text" name = "email"></br>
+    <input type="submit" value ="">
+</form>
+<form action="@{/recbean4}" method ="get">
+    姓名：<input type="text" name = "username"></br>
+    密码：<input type="password" name = "password"></br>
+    年龄：<input type="text" name = "age"></br>
+    性别：<input type="radio" name = "sex" value="男">男
+    <input type="radio" name = "sex" value="女">女</br>
+    邮箱：<input type="text" name = "email"></br>
+    <input type="submit" value ="">
+</form>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+
+S
+java:S1128"6Remove this unused import 'lombok.extern.slf4j.Slf4j'.(ϋϊΔ®8ρΜεª½0
+€
+java:S1192""^Define a constant instead of duplicating this literal "------logging-----After------" 4 times.(¦€ΐξωÿÿÿÿ8Ή Δª½0
+z
+java:S1192"_Define a constant instead of duplicating this literal "------logging-----Before------" 4 times.(Ίξίωÿÿÿÿ
+F
+java:S2629"$Invoke method(s) only conditionally.(Ίξίωÿÿÿÿ8τΜεª½0
+A
+java:S2629"$Invoke method(s) only conditionally.(ΝΛÿ¦8τΜεª½0
+A
+java:S2629"$Invoke method(s) only conditionally.(©—ψÿ8τΜεª½0
+F
+java:S2629"$Invoke method(s) only conditionally.(‡§Μÿÿÿÿÿ8τΜεª½0
+F
+java:S2629""$Invoke method(s) only conditionally.(¦€ΐξωÿÿÿÿ8τΜεª½0
+A
+java:S2629#"$Invoke method(s) only conditionally.(ϋΕή8υΜεª½0
+F
+java:S2629$"$Invoke method(s) only conditionally.(™χª€ϊÿÿÿÿ8υΜεª½0
+F
+java:S2629%"$Invoke method(s) only conditionally.(›Ωκύÿÿÿÿ8υΜεª½0

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean class="com.niit.bean2.Zoo" name="zoo">
+        <property name="zName" value="中山动物园"/>
+        <property name="animalType">
+            <array>
+                <value>两栖动物</value>
+                <value>哺乳动物</value>
+                <value>鸟类</value>
+                <value>爬行动物</value>
+                <value>昆虫</value>
+                <value>鱼类</value>
+            </array>
+        </property>
+        <property name="cats">
+            <list>
+                <value>东北虎</value>
+                <value>美洲豹</value>
+                <value>雪豹</value>
+                <value>金钱豹</value>
+                <value>非洲狮</value>
+                <value>华南虎</value>
+                <value>剑齿虎</value>
+                <value>狞猫</value>
+            </list>
+        </property>
+    </bean>
+</beans>

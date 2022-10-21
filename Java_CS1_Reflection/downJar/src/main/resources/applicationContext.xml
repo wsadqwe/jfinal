@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="p1" name="plane1" class="com.niit.bean.Plane">
+        <property name="pNumber" value="117"/>
+        <property name="pType" value="战斗机"/>
+        <property name="pName" value="F117"/>
+    </bean>
+
+    <bean id="p2" name="plane2" class="com.niit.bean.Plane">
+        <property name="pNumber" value="11711"/>
+        <property name="pType" value="战斗机2"/>
+        <property name="pName" value="F11711"/>
+    </bean>
+    <!--    1.属性注入
+                1.1 settter注入
+                    单个属性写入
+        -->
+    <bean class="com.niit.bean.Computer" name="computer1">
+        <property name="price" value="10000.0"/>
+        <property name="cpu">
+            <value>Intel i7 12700H</value>
+        </property>
+        <property name="display">
+            <value>RTX4090Ti</value>
+        </property>
+        <property name="os" value="win11"/>
+    </bean>
+
+    <!--        1.2 构造器注入
+                -->
+    <bean class="com.niit.bean.Computer" name="computer2">
+        <constructor-arg name="cpu" value="R5800H"/>
+        <constructor-arg name="price" value="123"/>
+        <constructor-arg name="display" value="K300"/>
+        <constructor-arg name="os" value="manjaro"/>
+    </bean>
+
+    <bean class="com.niit.bean.Computer" name="computer3">
+        <constructor-arg index="1" value="R5800H"/>
+        <constructor-arg index="0" value="12332"/>
+        <constructor-arg index="2" value="K300"/>
+        <constructor-arg index="3" value="manjaro"/>
+    </bean>
+
+<!--            1.3 p名称空间
+-->
+    <bean class="com.niit.bean.Computer" name="computer4"
+        p:price="1232346" p:os="MacOS" p:display="m1" p:cpu="m1-ultra"
+    />
+
+    <bean class="com.niit.bean.Computer" name="computer5">
+        <property name="os">
+            <value>null</value>
+        </property>
+        <property name="display">
+            <null/>
+        </property>
+        <property name="cpu">
+<!--            <![CDATA[value]]> -->
+            <value><![CDATA[<🔪<<听说南极🗡>(╯‵□′)╯炸弹！•••*～●>✈>]]></value>
+        </property>
+
+    </bean>
+</beans>

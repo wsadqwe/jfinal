@@ -1,0 +1,2 @@
+class=com.niit.bean.Student
+method=show

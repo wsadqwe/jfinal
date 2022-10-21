@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean name="office" class="com.niit.container.Office">
+        <property name="chairs">
+            <set>
+                <value>电竞椅</value>
+                <value>沙发</value>
+                <value>摇摇椅</value>
+                <value>老板椅</value>
+                <value>凳子</value>
+            </set>
+        </property>
+        <property name="computers">
+            <map>
+                <entry key="乔布斯" value="MacBookPro 2022"/>
+                <entry key="扎克伯格" value="Thinkpad T61"/>
+                <entry key="周波" value="Ipad2020 pro"/>
+            </map>
+        </property>
+    </bean>
+</beans>

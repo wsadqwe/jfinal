@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_IOC_2/1_IOC_2.iml" filepath="$PROJECT_DIR$/1_IOC_2/1_IOC_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_IOC_3_Anno/1_IOC_3_Anno.iml" filepath="$PROJECT_DIR$/1_IOC_3_Anno/1_IOC_3_Anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_AOP_XML/2_AOP_XML.iml" filepath="$PROJECT_DIR$/2_AOP_XML/2_AOP_XML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_AOP_proxyMode/2_AOP_proxyMode.iml" filepath="$PROJECT_DIR$/2_AOP_proxyMode/2_AOP_proxyMode.iml" />
+    </modules>
+  </component>
+</project>

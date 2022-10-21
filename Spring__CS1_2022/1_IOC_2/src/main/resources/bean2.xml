@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    IOC的bean作用域默认采用单例模式-->
+<!--    <bean class="com.niit.scope.Box" name="box">-->
+<!--        <property name="type" value="和田玉"/>-->
+<!--    </bean>-->
+
+<!--    原型模式：prototype为多实例实现，在使用时由IOC容器加载，LAZY-->
+<!--    <bean class="com.niit.scope.Box" name="box" scope="prototype">-->
+<!--        <property name="type" value="和田玉"/>-->
+<!--    </bean>-->
+
+<!--        单例模式：singleton为单例模式，在IOC容器从初始化时，生成对象。-->
+        <bean class="com.niit.scope.Box" name="box" scope="singleton">
+            <property name="type" value="和田玉"/>
+        </bean>
+
+</beans>

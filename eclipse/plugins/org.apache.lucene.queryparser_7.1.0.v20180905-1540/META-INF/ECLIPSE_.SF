@@ -1,0 +1,1003 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 29i+RyUrajfKEFgt6XDRRVWTsoKk6
+ 9iXOGtdqMFjD9k=
+SHA-256-Digest-Manifest: sju25q2VwRbJybwonJ290qMnfD6pAWFs/L1I7kk6YTg=
+Created-By: 1.8.0_162 (Oracle Corporation)
+
+Name: org/apache/lucene/queryparser/surround/query/package-info.class
+SHA-256-Digest: IPfiDR4wkuNND5vKPfMzkBEMw0ShRKLeADegig1QsWk=
+
+Name: org/apache/lucene/queryparser/flexible/standard/parser/ParseExce
+ ption.class
+SHA-256-Digest: 5/4xO1RkuxQd1V7Fr64+ttwDxVnz6UnWRfGwGvrb7tA=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/ModifierQueryN
+ ode.class
+SHA-256-Digest: YxWUDIjw1ieO2Dqq2Zn64UtAUmms130rXHfJnisRLhY=
+
+Name: org/apache/lucene/queryparser/surround/query/SrndBooleanQuery.cl
+ ass
+SHA-256-Digest: Mfcle+vd/sKyzX+SJ2gH2qAVPbt/rN3PSbNUpLir/rI=
+
+Name: org/apache/lucene/queryparser/surround/parser/FastCharStream.cla
+ ss
+SHA-256-Digest: suhp5Q2thn62sr/OzKwzzsGuBhtQrsfJgdu7ihKRy3c=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/Boost
+ QueryNodeProcessor.class
+SHA-256-Digest: DgYvlnz5RBalPT4JAfPXkKq/FeiWoV92NGJA4huyUJU=
+
+Name: org/apache/lucene/queryparser/complexPhrase/ComplexPhraseQueryPa
+ rser.class
+SHA-256-Digest: 9unTpi3s4w7vrq+ox8bynKaBtjA0sfhwHszBF7qBsnY=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.lucene.query
+ parser/pom.xml
+SHA-256-Digest: yqO4zODbBWsAJdnw4XaTczzUs0kvaBP5AeXVnxuF92Q=
+
+Name: org/apache/lucene/queryparser/classic/MultiFieldQueryParser.clas
+ s
+SHA-256-Digest: PqZR1+p5cqdBtWIUpXJErcKPDRuwMrOhF327ZELt/k0=
+
+Name: org/apache/lucene/queryparser/classic/Token.class
+SHA-256-Digest: eYXgs2rH8d1wY0WN8631lHEVNAggXQ0s1HCZkuElhME=
+
+Name: org/apache/lucene/queryparser/surround/query/DistanceSubQuery.cl
+ ass
+SHA-256-Digest: bYPqrd6Bmjtc+ReIYaq1secR+wJQXxLjF7YvFqarXpQ=
+
+Name: org/apache/lucene/queryparser/xml/builders/SpanNotBuilder.class
+SHA-256-Digest: R3x9nwrpsDsJNY+ZRyoI+YiBo5RJdJVg8VnP3gVKvGk=
+
+Name: org/apache/lucene/queryparser/simple/SimpleQueryParser.class
+SHA-256-Digest: dnR00cJI0Duy7RYfbT6Mz7nkNr1sObdBNYap1AI4lew=
+
+Name: org/apache/lucene/queryparser/xml/builders/SpanFirstBuilder.clas
+ s
+SHA-256-Digest: A+2s71Bfe6wgxz60k7j75ahChtr1DL6DdLfXC+KMa6I=
+
+Name: org/apache/lucene/queryparser/xml/CorePlusQueriesParser.class
+SHA-256-Digest: 4A7r5tc1U2DG6vAOPRmg+tlWF3IWN1pfv2YiRmvn1qI=
+
+Name: org/apache/lucene/queryparser/classic/ParseException.class
+SHA-256-Digest: /ubZS9u41aV+R/QLmtepcgygD+GCyFDDS9f7uRu0aNM=
+
+Name: org/apache/lucene/queryparser/flexible/standard/nodes/RegexpQuer
+ yNode.class
+SHA-256-Digest: 7tYfn5cOqmxdHzB9L4owC3aTebmUl6ShngozO+TpvnE=
+
+Name: about_files/APACHE_2.txt
+SHA-256-Digest: NheWROmRQafX6F4BYF2KZp7o6gtL/PLSJnSoQGOIdL8=
+
+Name: org/apache/lucene/queryparser/flexible/messages/NLSException.cla
+ ss
+SHA-256-Digest: dvUYWfgtbotW8uJqzty/C52YVB1cuDPd+sN3QNSnzSA=
+
+Name: org/apache/lucene/queryparser/classic/QueryParserConstants.class
+SHA-256-Digest: CG1NtcuQxXvueLPI3Z2igJd0yc3Rc7o/Vz3b/ymTMuc=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/PathQueryNode.
+ class
+SHA-256-Digest: 7IKNGYR1Z1CJL2bOCvbY7JYCbrJTCHQyhiD0s0PFNto=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/Point
+ RangeQueryNodeProcessor.class
+SHA-256-Digest: rKK4pVHSYJ22AUXJ+kAwUmoN2MMrFpIAc/6UmKwysBo=
+
+Name: org/apache/lucene/queryparser/surround/query/DistanceQuery.class
+SHA-256-Digest: VP9Ou9cZMsXdDQy+39Si6pQdjOaChzcuYK8QK1Xmgzo=
+
+Name: org/apache/lucene/queryparser/classic/QueryParser.class
+SHA-256-Digest: htoqBwrhw7QMDwmetbunRJ7zwCrA6q+eRJJ85f6u/rw=
+
+Name: org/apache/lucene/queryparser/flexible/core/util/QueryNodeOperat
+ ion$ANDOperation.class
+SHA-256-Digest: /oO7sSUL4aU2jc9R3ZVQvgYPGP/8KkeNavjhs9YAOto=
+
+Name: org/apache/lucene/queryparser/ext/package-info.class
+SHA-256-Digest: 6g2NtjBAVP735MxD05gYO7gpu7j/vwXn8ixQvBVNsoY=
+
+Name: org/apache/lucene/queryparser/flexible/messages/MessageImpl.clas
+ s
+SHA-256-Digest: JHXgQGZhkMcySlTY/KN/YKZEF2PvSv9S+rY6iwqEyBc=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/Modifie
+ rQueryNodeBuilder.class
+SHA-256-Digest: UG1rrUsIm3RJX5zuP3H1HQudlpEYR3dbtUpbyGTlLH8=
+
+Name: org/apache/lucene/queryparser/flexible/standard/parser/StandardS
+ yntaxParser$JJCalls.class
+SHA-256-Digest: JAuF2aDG7RHXVqOHfdmZjgogZ72ouILTQN04EkhH2Bg=
+
+Name: org/apache/lucene/queryparser/classic/CharStream.class
+SHA-256-Digest: X52qTtKv1dN0E4u6+Gp/AnKrTsfZtv+7c6TtBEQjW2A=
+
+Name: org/apache/lucene/queryparser/flexible/precedence/package-info.c
+ lass
+SHA-256-Digest: 2MyUf1kXcQoGYQAHhMcOqPhSfiQh+nmnsdPc0VYcE1Y=
+
+Name: org/apache/lucene/queryparser/xml/package-info.class
+SHA-256-Digest: YLqyMY+X7S/3WzJngX/SF/zYjVnhhypDGtqe5AP1l/0=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/FuzzyQueryNode
+ .class
+SHA-256-Digest: +7MQbw1xTx/pFSel5LJVCp6SEu0FKt723xZ3fIIGZIo=
+
+Name: org/apache/lucene/queryparser/xml/ParserException.class
+SHA-256-Digest: 7wXVPkt0h+K4/zEpgSOhWhUK2s5Ays29tZ8BlQmeBX0=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/TermRan
+ geQueryNodeBuilder.class
+SHA-256-Digest: 9qdY1BM7X01qgBnofw8hnWJVxAIY4CKl31R/u23NPEY=
+
+Name: org/apache/lucene/queryparser/flexible/standard/nodes/TermRangeQ
+ ueryNode.class
+SHA-256-Digest: A5trZpwZ2xi2iu45vVR6dyuSLHclSDpvKlFQPXgA/Pk=
+
+Name: org/apache/lucene/queryparser/xml/builders/FuzzyLikeThisQueryBui
+ lder.class
+SHA-256-Digest: UqQee9zV8KwvnHsoUtFFoZ2UYNMN/0o427FKgPccRdw=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/PointRa
+ ngeQueryNodeBuilder.class
+SHA-256-Digest: H9RdjVeSRtE7Av7DbzckZuK6jAiRVjaXcZfiFrmogZ0=
+
+Name: org/apache/lucene/queryparser/xml/builders/SpanTermBuilder.class
+SHA-256-Digest: quW2saiYYuTESPxsMQfVpMsyOP+g3HkWcHM0OLPy2Tk=
+
+Name: org/apache/lucene/queryparser/xml/builders/TermQueryBuilder.clas
+ s
+SHA-256-Digest: gTSB6YcbVHIw0PnKGiYKv+oFn8BLViBWfUGYt+JI0Eo=
+
+Name: org/apache/lucene/queryparser/xml/builders/PointRangeQueryBuilde
+ r.class
+SHA-256-Digest: X7Wk4OsjvSwbQhFaqBlTO4SWO1XhDoWnOxAk0wdNXmU=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/FieldableNode.
+ class
+SHA-256-Digest: iU08x1T7IlR/DDCEc9IGux+0HLFspkskXxX7jeq/U/M=
+
+Name: org/apache/lucene/queryparser/classic/QueryParser$1.class
+SHA-256-Digest: DyKJzvvTEu/FhnMBfz9BcE+sl1Vl1MNF0IHRJOyKZnE=
+
+Name: org/apache/lucene/queryparser/xml/builders/SpanOrTermsBuilder.cl
+ ass
+SHA-256-Digest: NmTGQ2CcqgRj5/vbgO+OkdIqXOm0+4uufDj/3RtignI=
+
+Name: org/apache/lucene/queryparser/surround/parser/package-info.class
+SHA-256-Digest: qIRnplGJ39sva8+3aQhTpPNCYgdOCwyoDUN4Jn8gFWM=
+
+Name: org/apache/lucene/queryparser/xml/builders/SpanQueryBuilder.clas
+ s
+SHA-256-Digest: mcJiwEkgST8HLAVmd16sE8LJV3IfKKaCovVPVK8nfOw=
+
+Name: org/apache/lucene/queryparser/flexible/standard/nodes/PointQuery
+ Node.class
+SHA-256-Digest: 1k48FDyLmg/56kJFpprKtJqPEAHqO04fkq7AQdtuHFE=
+
+Name: org/apache/lucene/queryparser/classic/QueryParser$JJCalls.class
+SHA-256-Digest: BcJk5DCOXr06DhnOuE5S9Ndsz2DvUA+sYbUqQUNcUNI=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/MultiPh
+ raseQueryNodeBuilder.class
+SHA-256-Digest: J+TwRN/xmkdJDw3qSuw+GOSYfJndxicC5g+0Qmen2MM=
+
+Name: org/apache/lucene/queryparser/flexible/core/QueryNodeError.class
+SHA-256-Digest: ma392va9QuwXuP5HV/HEc9cBRqQO3PZp1xZeGu5kcfI=
+
+Name: org/apache/lucene/queryparser/surround/query/TooManyBasicQueries
+ .class
+SHA-256-Digest: bArP4M2CfG0BJ5N5+tObxObokgkaOj0pjlsGWWdbxd4=
+
+Name: org/apache/lucene/queryparser/ext/ExtendableQueryParser.class
+SHA-256-Digest: GSODExN7oQxJ9dHpuYEWMS9k86Kzo6tdKkkDf6sVIGQ=
+
+Name: org/apache/lucene/queryparser/classic/QueryParserTokenManager.cl
+ ass
+SHA-256-Digest: DQ/z7dtq44q0/FlBlM003cpdJslfW/Q8AZwcipfOHNo=
+
+Name: org/apache/lucene/queryparser/flexible/core/util/StringUtils.cla
+ ss
+SHA-256-Digest: rC92KetyzELpDVIKonPnpeXSKsI0bMJfUHBXXqJvoiI=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/GroupQu
+ eryNodeBuilder.class
+SHA-256-Digest: XQ0fbmu/sVTyP1J8VjfzBCiBatRKeQmnrV+Xctk7weo=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/Standar
+ dQueryBuilder.class
+SHA-256-Digest: 7VFb02/bYlUZERh0BOsCi6xBApicVoKFVExhVISCjFM=
+
+Name: org/apache/lucene/queryparser/classic/package-info.class
+SHA-256-Digest: KLHP9LncjpvsIkVNap9RS+6wsZUopZt+EMc/3UECdCQ=
+
+Name: org/apache/lucene/queryparser/flexible/core/QueryNodeParseExcept
+ ion.class
+SHA-256-Digest: Qd1SiaiBlNWqtDxpNECBurj1OXxxIyhkzf0h3lnfA08=
+
+Name: org/apache/lucene/queryparser/surround/query/SpanNearClauseFacto
+ ry.class
+SHA-256-Digest: aHnWXempdO1TlqOvE+3Z0V/ldsh0LawKqCJa6T0ZN3Y=
+
+Name: org/apache/lucene/queryparser/flexible/core/parser/SyntaxParser.
+ class
+SHA-256-Digest: 6wj9MDhBki6cQGx2KmelfRa+xmqB6NtvCLffsstUQNg=
+
+Name: org/apache/lucene/queryparser/flexible/standard/parser/StandardS
+ yntaxParserConstants.class
+SHA-256-Digest: jxxTkTdKtRHTX29udG9tx7twx/1lppWruIoDHZKKdFU=
+
+Name: org/apache/lucene/queryparser/flexible/standard/CommonQueryParse
+ rConfiguration.class
+SHA-256-Digest: 4TBvvIISb+uuHZpukPUx+Yzk2XnVNhunFDqmacA+ee0=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/OpenR
+ angeQueryNodeProcessor.class
+SHA-256-Digest: qrZAS9pSv3MQ5w0a7UEQcwsd18YS3LeDd6CSDTZocQU=
+
+Name: org/apache/lucene/queryparser/xml/builders/SpanOrBuilder.class
+SHA-256-Digest: CmB215O02iUCstaSrK+2kbbmL7KWOP5rTUAQV+Nvq/8=
+
+Name: org/apache/lucene/queryparser/surround/parser/CharStream.class
+SHA-256-Digest: Qm05cvEISJpMjEvZ0PVxa1lFCC0LuzZaiy1c8qS5S/s=
+
+Name: org/apache/lucene/queryparser/xml/builders/BooleanQueryBuilder.c
+ lass
+SHA-256-Digest: IaAqiq+AeliLNJQH8wXMaO65y17SDBb0v/13O/IwB8E=
+
+Name: org/apache/lucene/queryparser/flexible/precedence/processors/Boo
+ leanModifiersQueryNodeProcessor.class
+SHA-256-Digest: sd7zmsoMw8MszkV55vX/ijkRUHEs6G2kVYRTakCKqWw=
+
+Name: org/apache/lucene/queryparser/flexible/standard/nodes/MultiPhras
+ eQueryNode.class
+SHA-256-Digest: ghRVkGg1MZ6WNxFhDC3TAJSfRF+AVpo8eX+Dy535qb0=
+
+Name: org/apache/lucene/queryparser/surround/query/FieldsQuery.class
+SHA-256-Digest: XUywQGGX0p3hzUZTHXfDTlnCGQrQI5waaeyXPswtBzs=
+
+Name: org/apache/lucene/queryparser/flexible/standard/nodes/AbstractRa
+ ngeQueryNode.class
+SHA-256-Digest: 2F4WOqUweEu38qxy8u/fV/MnjRrNovLU6OS0mf/YdfM=
+
+Name: org/apache/lucene/queryparser/flexible/core/builders/QueryBuilde
+ r.class
+SHA-256-Digest: t82xE8PK+jgi9HKf1e8u1hXZ3dFNRh3iHaf8DpxNwn4=
+
+Name: org/apache/lucene/queryparser/classic/QueryParser$LookaheadSucce
+ ss.class
+SHA-256-Digest: 275aBoRZeqsVCDWoptewjEiw8RQUgXBim0XIOE+jzxY=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/FieldQu
+ eryNodeBuilder.class
+SHA-256-Digest: 8WYgksB7UzZKXLemBPDnTblKYoQd735EWuIBeraiMPE=
+
+Name: org/apache/lucene/queryparser/surround/query/NotQuery.class
+SHA-256-Digest: CDjWsAMaFfKQ4sTcneUmf587Kn/gEL0fVoTVJuVyDrA=
+
+Name: org/apache/lucene/queryparser/classic/QueryParserBase.class
+SHA-256-Digest: Vw47mMcdJXo6ZRaIUC7jJSy+vjn62+nYYXJfLPUZ+Lo=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/MatchAllDocsQu
+ eryNode.class
+SHA-256-Digest: fHHIZvP8tysn2o0LK+rvyyPT+1ov2weWi+bCDX4CA6A=
+
+Name: org/apache/lucene/queryparser/flexible/standard/config/StandardQ
+ ueryConfigHandler$ConfigurationKeys.class
+SHA-256-Digest: BN6UxcEIwllnY6Ex+ZP0SKAl13fnBkxBQlF8YIR7A3M=
+
+Name: org/apache/lucene/queryparser/flexible/standard/nodes/package-in
+ fo.class
+SHA-256-Digest: E+vC0KkX4TiogT4EUbINC0BZ4qigw42facp3tFaEeFw=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/ProximityQuery
+ Node$1.class
+SHA-256-Digest: 7D6KAYJQpIYOr6LC/jrQrE3XL7QPAsXcf3LyHB6e5x8=
+
+Name: org/apache/lucene/queryparser/simple/package-info.class
+SHA-256-Digest: CnHmpeDPTDiqa1U11DjRcAmDDjEYOBJx3ZwjmzK4GiI=
+
+Name: org/apache/lucene/queryparser/flexible/messages/package-info.cla
+ ss
+SHA-256-Digest: KpoYHjuWTTpigPROjwGnU/ZtP4x6gSUe6HyByWpFt0Q=
+
+Name: org/apache/lucene/queryparser/flexible/standard/nodes/PrefixWild
+ cardQueryNode.class
+SHA-256-Digest: PUrw38GsWOy9WPFpJIwo2y4RLPhN4bkI4v9GeKjPIWI=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/FieldQueryNode
+ .class
+SHA-256-Digest: YWFzQA9C3zxRPIo/Jcws2+R9atJ98vDNypgQDtehneU=
+
+Name: org/apache/lucene/queryparser/xml/builders/ConstantScoreQueryBui
+ lder.class
+SHA-256-Digest: ksG+pL6FWprKcWl1EifSYBJ8jzaRi1G5Y5yHk5/sit0=
+
+Name: org/apache/lucene/queryparser/classic/QueryParser$Operator.class
+SHA-256-Digest: LwNOIFTpSnXAkmoZq5mnjHx0zf/JXmFAzgvf2LrOdG0=
+
+Name: org/apache/lucene/queryparser/flexible/core/QueryParserHelper.cl
+ ass
+SHA-256-Digest: 3rfbWwnv1Dxgg6EdnzzCnoG6F+hB46Jq7elFc6XyKA0=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/PhraseQ
+ ueryNodeBuilder.class
+SHA-256-Digest: 3MuqkkHiD5SBpyTMN2VhF/DGixJ7KcMpKvdbLDzFDU4=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/DummyQu
+ eryNodeBuilder.class
+SHA-256-Digest: fx33RWNenClqgB2myfWYSK5vttuPhHtLdp+DJqQ6dWs=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/Phras
+ eSlopQueryNodeProcessor.class
+SHA-256-Digest: nT+YayRawA7MJwYYsm5wyiqVzsEfb6pOR33CVuvfjU0=
+
+Name: org/apache/lucene/queryparser/surround/parser/TokenMgrError.clas
+ s
+SHA-256-Digest: YZmv88Gd5uFxM388OYmgR/0gJ/EqLpy4M10Ku4ZXmCc=
+
+Name: org/apache/lucene/queryparser/xml/CorePlusExtensionsParser.class
+SHA-256-Digest: Omc7qc3p3Rfpu9ZNFqeryINej1SAJKdPdNzG+1Is+dQ=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/BoostQu
+ eryNodeBuilder.class
+SHA-256-Digest: u0jlUNn8iGPKtLRD86EkQ12tJPVCj86ppqTaBFEeR6I=
+
+Name: org/apache/lucene/queryparser/xml/DOMUtils.class
+SHA-256-Digest: yh18+OXv1sCH0MpjePwci8r0S+jHpQZDsw2fuqePp8M=
+
+Name: org/apache/lucene/queryparser/xml/LuceneContribQuery.dtd
+SHA-256-Digest: siYfPu1JxuCKtllGAA+QCMlU0DFTqMxqH9yzcpgNAAA=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/RegexpQ
+ ueryNodeBuilder.class
+SHA-256-Digest: 0yVUxBVD4PtEiCKeupsZXWDVv3tFWC1xDy/wtQbKZ1g=
+
+Name: org/apache/lucene/queryparser/surround/query/SimpleTermRewriteQu
+ ery.class
+SHA-256-Digest: +q2dr9Hu8jk3e7UYlH6fYlsC9HF56kjfGliTwsYBYcM=
+
+Name: org/apache/lucene/queryparser/flexible/precedence/processors/Pre
+ cedenceQueryNodeProcessorPipeline.class
+SHA-256-Digest: D1+bVaI7eQL7H8brQigWIAkhgW5G2+m1G9e2nn9b4J8=
+
+Name: org/apache/lucene/queryparser/flexible/core/processors/RemoveDel
+ etedQueryNodesProcessor.class
+SHA-256-Digest: mIkR95sUqZX7QGQVIrFz8VZ8rybr+MFfe4vC0eJuBQ0=
+
+Name: org/apache/lucene/queryparser/flexible/standard/package-info.cla
+ ss
+SHA-256-Digest: Wcfi6BuGF/rSFW8fPV7V2l6h7ALA7s+aFM+Ll3IRNeQ=
+
+Name: org/apache/lucene/queryparser/surround/parser/QueryParser$1.clas
+ s
+SHA-256-Digest: NuySsO1lD4TngBDerM4RzyjunO2thEtajUIghbZV+Qw=
+
+Name: org/apache/lucene/queryparser/xml/builders/SpanQueryBuilderFacto
+ ry.class
+SHA-256-Digest: b8eL1c3W72UwO+XhTuAOL/+0sJ5QJLH8lZNHre2AKrQ=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/OrQueryNode.cl
+ ass
+SHA-256-Digest: cVROr/5DcmEgugUC2abJY1yQK4O2hx4A8bkZLWFmF5c=
+
+Name: org/apache/lucene/queryparser/xml/builders/LikeThisQueryBuilder.
+ class
+SHA-256-Digest: ivEkLXet1T1dXKxbuEq5Exoez12XuFa03mgTHmvC7Uw=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/AnyQuer
+ yNodeBuilder.class
+SHA-256-Digest: ce3pb21rJVmt7+YnSjbHmzvc/ITPIa0nq9OBy8IDX3s=
+
+Name: org/apache/lucene/queryparser/surround/query/SrndTermQuery.class
+SHA-256-Digest: rusNO+GoGHif8MvdnC/bbfkKg/yhNZouum/hjw32SdY=
+
+Name: org/apache/lucene/queryparser/flexible/core/parser/EscapeQuerySy
+ ntax.class
+SHA-256-Digest: ynmKhq3CaVQsvClXukf136yhiVAIsPYmrm5gHESbri4=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/Point
+ QueryNodeProcessor.class
+SHA-256-Digest: LHrdafreBu1YtnfCiOIFMz78jQqrxvbrvuIOUwTGRFk=
+
+Name: org/apache/lucene/queryparser/classic/TokenMgrError.class
+SHA-256-Digest: +W8OSh6dJIp0zCWZ6OEWK7/1W07zT3MOUW2oIX3mnV8=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/Remov
+ eEmptyNonLeafQueryNodeProcessor.class
+SHA-256-Digest: TmCE6mDlUJ3lxtuEY/kgiuiAiK40I1Gcd2P+HTTFsvE=
+
+Name: org/apache/lucene/queryparser/surround/query/DistanceRewriteQuer
+ y.class
+SHA-256-Digest: GrBAsyPj7xY+9PVKEuGlzuU4Ipcv3ad9nBtEqFn4Jrk=
+
+Name: META-INF/NOTICE.txt
+SHA-256-Digest: 7xBDXbbFqnJJaxAEnEi5uz0Kh6vzo8cEZObZGdL7VHU=
+
+Name: org/apache/lucene/queryparser/flexible/core/messages/QueryParser
+ Messages.properties
+SHA-256-Digest: ldXHK46eJSOYbhbthx8E9tvrNZ3pK86xSzYJgYPeWJM=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/SlopQue
+ ryNodeBuilder.class
+SHA-256-Digest: Vwifj7guy2uiLFWeoMF7NBf7S7OC9jaTedq4r1YcZMU=
+
+Name: org/apache/lucene/queryparser/flexible/core/messages/QueryParser
+ Messages.class
+SHA-256-Digest: XKe6XIcVi5UMHHTFOQ5EaPX2cH6+WRm4eNgV47GqCZY=
+
+Name: org/apache/lucene/queryparser/flexible/messages/Message.class
+SHA-256-Digest: FZnrAZ6+VmGmQY4nal5WNS+fTnajR/CKyaiF7mgFmJU=
+
+Name: org/apache/lucene/queryparser/simple/SimpleQueryParser$State.cla
+ ss
+SHA-256-Digest: uOQH0N7hkcMz7GiXTHL1SzIQgV3joCAg5FYtR9T0GdU=
+
+Name: org/apache/lucene/queryparser/flexible/standard/parser/Token.cla
+ ss
+SHA-256-Digest: 7LBTtOIAw+VPclvnZ/Yq3wlraJRq6/98Tt1OMh6kwrM=
+
+Name: org/apache/lucene/queryparser/ext/ExtensionQuery.class
+SHA-256-Digest: mOCxBvXbKzeQbF3Jcb+MBVOgWmLb6oFAp59wC7rGAJM=
+
+Name: org/apache/lucene/queryparser/xml/builders/SpanNearBuilder.class
+SHA-256-Digest: D4/ET4JhbbbdP7GlBJqoOoJt4pv4BgI/e1SZkwXx7js=
+
+Name: org/apache/lucene/queryparser/flexible/standard/config/PointsCon
+ fig.class
+SHA-256-Digest: MYK6WyN3QM9fFD8vLlFQCrpKWkEmxEgb13Lf8gT/AJ0=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/QueryNode.clas
+ s
+SHA-256-Digest: zmf+wveam8cLGYujNLfGkk4zs5FbSCMfcU5I2wGco60=
+
+Name: org/apache/lucene/queryparser/flexible/standard/config/FieldDate
+ ResolutionFCListener.class
+SHA-256-Digest: cEJ/aT3n+6cuCWnPN+79//MettfYYogV3lHDPpdFBRs=
+
+Name: META-INF/LICENSE.txt
+SHA-256-Digest: a2OVq1dxguBS6vXB8yR0FI0H/VzNqZJDnH419AMLpj0=
+
+Name: org/apache/lucene/queryparser/flexible/standard/parser/TokenMgrE
+ rror.class
+SHA-256-Digest: U7Q34PBdWRZJUj/bXreX3qynxwFRLpBZzbQ7mweKYiw=
+
+Name: org/apache/lucene/queryparser/flexible/standard/nodes/SynonymQue
+ ryNode.class
+SHA-256-Digest: 96Po22OTwHE9rXYfAdRpz1rxKU3TstDyFUYZ1Khqia8=
+
+Name: org/apache/lucene/queryparser/flexible/core/processors/QueryNode
+ Processor.class
+SHA-256-Digest: wYIBy6U+EjzXybk6biV+Ao39fE0NV/atk93k3rYM9AQ=
+
+Name: org/apache/lucene/queryparser/flexible/standard/QueryParserUtil.
+ class
+SHA-256-Digest: 3hdhCG3/e/TnFUAv9feu99yM7ku8BOrNcTkJsEtUKv4=
+
+Name: org/apache/lucene/queryparser/xml/QueryBuilder.class
+SHA-256-Digest: 1G1cDXsV0ypJaUpwQ1xMBro5BCuWrN63Bs3MpL674f0=
+
+Name: org/apache/lucene/queryparser/surround/query/OrQuery.class
+SHA-256-Digest: XncoKGmYWsjgEB5fNkP9qkMGuDjKUnCbx607nX0oHUU=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/Multi
+ TermRewriteMethodProcessor.class
+SHA-256-Digest: R+/IaBVzhz+szTay5qsjKXyE/gj7/VpE0CG1c8R0Ejc=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/PhraseSlopQuer
+ yNode.class
+SHA-256-Digest: v7UTtcPf3X9KD6N7fd+qtcpRPXZ3xDcIt0XDFQ7Wqsk=
+
+Name: org/apache/lucene/queryparser/flexible/standard/nodes/PointRange
+ QueryNode.class
+SHA-256-Digest: aLSZdomUAIJ6hxO4kSfXVvFS3IzLX7qo2DODaSlrszQ=
+
+Name: org/apache/lucene/queryparser/flexible/standard/parser/CharStrea
+ m.class
+SHA-256-Digest: 3B7G2yn9SZf/M49BIMlnHYCP3Z+XshrYR2gZwvKpyZ0=
+
+Name: org/apache/lucene/queryparser/flexible/core/util/QueryNodeOperat
+ ion$1.class
+SHA-256-Digest: WcmoZN+IF0ikB/OuW+gEoMCLZhoskBg/XTVccwfGBNI=
+
+Name: org/apache/lucene/queryparser/flexible/core/processors/NoChildOp
+ timizationQueryNodeProcessor.class
+SHA-256-Digest: HXxQHK/qhBHxovuw/qXRQ5Yj5A0fZXaHekCWzcGOUP8=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/Standar
+ dQueryTreeBuilder.class
+SHA-256-Digest: 15Hc6okyTxcRPVeZ4wb1ZyW1FH2whf9GoN8MmR8KbGQ=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/Boole
+ anSingleChildOptimizationQueryNodeProcessor.class
+SHA-256-Digest: WXOP/cttpS0BsfMoiPCwcJlRP3vsQkyhariXZYFsUuE=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/PathQueryNode$
+ QueryText.class
+SHA-256-Digest: 1uJyjaeWmrmYEUqXPwXdD8U0LiVNeLP2/DwDJskwKss=
+
+Name: org/apache/lucene/queryparser/flexible/core/processors/QueryNode
+ ProcessorImpl$ChildrenList.class
+SHA-256-Digest: P8EcTHVMAq5xMC+zaG15Yf8p58Il7u7XqhKOKMMZdKM=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/DeletedQueryNo
+ de.class
+SHA-256-Digest: jUxsF9JTpEga/ASMS4MqdREoWLFcieVf1DctO5k7NDE=
+
+Name: org/apache/lucene/queryparser/classic/FastCharStream.class
+SHA-256-Digest: psjtd+4E/prjx6UZ4G0YvJrE1IHcPVsRfw+d1YCcVhs=
+
+Name: org/apache/lucene/queryparser/flexible/core/config/FieldConfigLi
+ stener.class
+SHA-256-Digest: 7lYgyv66kdlTwUMpiQKTMAnuWIITaZaudhpFj1iB99Y=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/Defau
+ ltPhraseSlopQueryNodeProcessor.class
+SHA-256-Digest: aj+pM9cf7sk7sxjM+NcAT7HSLMB0rsDMfy04NF0GKhM=
+
+Name: org/apache/lucene/queryparser/xml/QueryTemplateManager.class
+SHA-256-Digest: IKmqY3umlrB1RQUbCs3bSfVbrH4JMjlIAUcx4kwi0zY=
+
+Name: org/apache/lucene/queryparser/flexible/messages/NLS.class
+SHA-256-Digest: lrWnEk6L67HzzSrYFjoxy1d+E+Q+iSv++PPH0nDzCVA=
+
+Name: org/apache/lucene/queryparser/flexible/precedence/PrecedenceQuer
+ yParser.class
+SHA-256-Digest: b8Y6rMJTpYwrDMHRX2FD62sQtAPdQ+j43k+c0rIWWVU=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/SlopQueryNode.
+ class
+SHA-256-Digest: +A0KoqsG+EU3gu4ZZZWp6uD9PPgJy9AQcBfjSYcfFyY=
+
+Name: org/apache/lucene/queryparser/flexible/standard/parser/StandardS
+ yntaxParser.class
+SHA-256-Digest: xdfYEq9WdYIJGR/B8g0Z/H0oMgDQoO5r4qVCbWOmiWY=
+
+Name: org/apache/lucene/queryparser/flexible/standard/parser/FastCharS
+ tream.class
+SHA-256-Digest: nK5rXIOwVTJKxcLxaj4jcAyfmt+5Cfyq4d5/0n5ZHD4=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/BooleanQueryNo
+ de.class
+SHA-256-Digest: Z6wtEYTPsvlBNs2W9/tPfwYvYS5zEEVbY2+BiMNcsDU=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/ProximityQuery
+ Node.class
+SHA-256-Digest: /If1EcGe4TMLpmdjk59DxUESwLbaNq9o9OKRXA6nMyA=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/MatchNo
+ DocsQueryNodeBuilder.class
+SHA-256-Digest: nR4l3IRjNCrP9mFRaNVc1M2LUpJ3zzhc1tqOCRHQYyI=
+
+Name: org/apache/lucene/queryparser/surround/parser/ParseException.cla
+ ss
+SHA-256-Digest: J6nFWueRUxutg+NE78LuLhAJ5uEbykUO2V1xLFj/e3g=
+
+Name: org/apache/lucene/queryparser/flexible/standard/config/StandardQ
+ ueryConfigHandler$Operator.class
+SHA-256-Digest: ENHXT9WZyyj/WrCuEaW2FKRTcvkBgQDuoQGbn5TBmMg=
+
+Name: org/apache/lucene/queryparser/xml/builders/MatchAllDocsQueryBuil
+ der.class
+SHA-256-Digest: 6BWSBVVYGWOWY2t+nTNkYQaGYqanp0izJ5WAH3izzBI=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/ProximityQuery
+ Node$Type$1.class
+SHA-256-Digest: Ucu/BcYronEJFEVF0POi1QZZpq0kK3g3aaVZ0dhHaDY=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/TokenizedPhras
+ eQueryNode.class
+SHA-256-Digest: /lESK/+L+izK5346TjbJdPBP6wP2oxf2GFwQrXc70c8=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/QuotedFieldQue
+ ryNode.class
+SHA-256-Digest: o73RZbiAIFNQv8TurtCcbnes206lj5p8umIx5ct2VQg=
+
+Name: org/apache/lucene/queryparser/flexible/standard/config/NumberDat
+ eFormat.class
+SHA-256-Digest: D3fQveOzum0FISA0xii4JHsQYqaaeDHPbULKzeZ5wNU=
+
+Name: org/apache/lucene/queryparser/surround/query/AndQuery.class
+SHA-256-Digest: IzI/inLBqJePl4wGF9WgWcbdh4GRectOz9DYpLQuUfI=
+
+Name: org/apache/lucene/queryparser/complexPhrase/ComplexPhraseQueryPa
+ rser$ComplexPhraseQuery.class
+SHA-256-Digest: BR2bAaZ/SQpr0nyPdnOui5IyONtkT1Hjr6RDVR6LdQM=
+
+Name: org/apache/lucene/queryparser/xml/CoreParser.class
+SHA-256-Digest: Y/Noao10CJeucMUX0M+I7BDLg7U2oBp3OcoHo8ELmiw=
+
+Name: org/apache/lucene/queryparser/complexPhrase/package-info.class
+SHA-256-Digest: tpjFBS66VTYej//p9CaNzsX6mV2gWHbeBk8lvi981Hk=
+
+Name: org/apache/lucene/queryparser/surround/query/SimpleTerm$1.class
+SHA-256-Digest: mJZIcBA+TsnTWJWEZ+hd3PD9HctEd2o4MyN1NlUCVZY=
+
+Name: org/apache/lucene/queryparser/xml/builders/package-info.class
+SHA-256-Digest: eDcRi6CS6t8a7Q5Q3FPttUNa0WM9sHYkK1LWCtNul7c=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/Synonym
+ QueryNodeBuilder.class
+SHA-256-Digest: VlQiR0MiRYkqP+ryIhO5oaw1ufmqrTtjqjtlbDj0XkY=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: srkiZXxrCFC39SaA6ulEcDHv5o0YClSkBEkhrizUIJ4=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/ProximityQuery
+ Node$ProximityType.class
+SHA-256-Digest: gBFGoW6Ve1qIFeW2sXSXF8K6wMHG1SQCSrZJ55JdbRc=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/Boolean
+ QueryNodeBuilder$1.class
+SHA-256-Digest: RCHaioA48HBHuNwkCUbHRa3Kb0m4ot0+6sF4Dcim5nw=
+
+Name: org/apache/lucene/queryparser/flexible/standard/parser/StandardS
+ yntaxParser$1.class
+SHA-256-Digest: yYujKldHlES+J7MXFSNvC/RBc9yd+j4k9fC/v15MkKA=
+
+Name: org/apache/lucene/queryparser/surround/query/SrndQuery.class
+SHA-256-Digest: pWufHPeTK3HN+9pcDq9srsylom79HBbketDKRvsebtQ=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/Analy
+ zerQueryNodeProcessor.class
+SHA-256-Digest: WaZPsU1eDqilYEMLgSF79whFOhJ4ypCpv4pm+t3GRa8=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/ModifierQueryN
+ ode$1.class
+SHA-256-Digest: 9BRhyYczOIAE93HAv3oWD3OWBOlaVpLRNfoVa6Lb8Og=
+
+Name: org/apache/lucene/queryparser/flexible/core/config/AbstractQuery
+ Config.class
+SHA-256-Digest: k14+XNPDFB9Llopgu9g1RWSFIbHOSbBIQj2ASkPbku0=
+
+Name: org/apache/lucene/queryparser/flexible/core/parser/package-info.
+ class
+SHA-256-Digest: I7by8CICTlk4rXHWdolL9JW77+gTNMKIFUjUbQ1r0Gw=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/Multi
+ FieldQueryNodeProcessor.class
+SHA-256-Digest: /6vzdUxJD2BWLZuwbzDgsukHH9cfyp3Q9nytHIMwwn8=
+
+Name: org/apache/lucene/queryparser/flexible/standard/nodes/WildcardQu
+ eryNode.class
+SHA-256-Digest: G5/Bk8m5smpXqegiFew9HbT5G4e8OSmyl02/3jkXf60=
+
+Name: org/apache/lucene/queryparser/xml/LuceneCoreQuery.dtd
+SHA-256-Digest: AIXWPsUxlEtgx6ySXhVlalmgUjzaAY7+ujOmBaH9oJY=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/TextableQueryN
+ ode.class
+SHA-256-Digest: QBLEh4UHiPSmeRWAsVzjbghQQhVuHEDoqM043RnWD54=
+
+Name: org/apache/lucene/queryparser/surround/query/SrndPrefixQuery.cla
+ ss
+SHA-256-Digest: 42jyNHGnkXaOYYjRfHIvfQ6JllMkCIfICK1HwYnDJD0=
+
+Name: org/apache/lucene/queryparser/surround/parser/Token.class
+SHA-256-Digest: cU8wncSAw1H+G/1pr8fbmBWPUbAhDZKwdQOcETnVnj0=
+
+Name: org/apache/lucene/queryparser/surround/query/BasicQueryFactory.c
+ lass
+SHA-256-Digest: J0KU0e/iCn1a7yGS6VUZ8+ksv5JFzWkg0u/RHXElVls=
+
+Name: org/apache/lucene/queryparser/surround/parser/QueryParserConstan
+ ts.class
+SHA-256-Digest: 5fBl8bqVVqlxWfbq1O0ENw5AfxTUQ+Fqo1UCFQwRSQU=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/FieldValuePair
+ QueryNode.class
+SHA-256-Digest: 2LML80HzkaYGyIOUWQJDhkNRy7wGXFdjxOqUTlwjCO4=
+
+Name: org/apache/lucene/queryparser/flexible/standard/config/FuzzyConf
+ ig.class
+SHA-256-Digest: uCJsyK0nfjDmd5+Dq+NE13DMViXS8EWApgN7ZUW2ngQ=
+
+Name: org/apache/lucene/queryparser/flexible/standard/parser/StandardS
+ yntaxParserTokenManager.class
+SHA-256-Digest: RW1HfTJ139ximhJ5v2ErQwQFr39fZ9iLcp3bgzEeWKk=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/Fuzzy
+ QueryNodeProcessor.class
+SHA-256-Digest: 5QJdktQP8Y9vYHuBCAukVIiUpaVnM2pkFhKcjMGU7kM=
+
+Name: org/apache/lucene/queryparser/flexible/standard/parser/package-i
+ nfo.class
+SHA-256-Digest: HshCkwP1lagDHThkZoFU0IQJ8INJr0oZo92veOMWySQ=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/NoTokenFoundQu
+ eryNode.class
+SHA-256-Digest: Qp2axiOuSVT/YlrqGWGmrtA63xxDnvNayDzrTThKtlw=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/MatchAl
+ lDocsQueryNodeBuilder.class
+SHA-256-Digest: 4gWfcEhQa8v2GBYmb+C+JM80A2m3UwW8vd69nmEZQDY=
+
+Name: org/apache/lucene/queryparser/ext/Extensions.class
+SHA-256-Digest: Sm5WOzBBJnw6IKg79nXBzOnnkx9d+LjFE/l74JGrRf8=
+
+Name: org/apache/lucene/queryparser/surround/query/SimpleTerm.class
+SHA-256-Digest: Ff1sKYcvb12AMBQh2duk5fLFmMNkM6L2Mew+mO4u5d0=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/QueryNodeImpl.
+ class
+SHA-256-Digest: jCGvriN6ah+hj7HZpc0Kr3W8Fx+PTCFXMiYAPdlKxtU=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/MatchNoDocsQue
+ ryNode.class
+SHA-256-Digest: pVEj9BnReWSXYZ2+4dMLpy6yLh4qRo+Ld+zfknzjKF0=
+
+Name: org/apache/lucene/queryparser/flexible/core/processors/package-i
+ nfo.class
+SHA-256-Digest: 0iq4Ti1OGHzi+B5RqSPRvuKkFJVWMTWTLQBn4URUt1I=
+
+Name: org/apache/lucene/queryparser/flexible/core/processors/QueryNode
+ ProcessorPipeline.class
+SHA-256-Digest: 2E+/LvxZ6Ta2TLUbHHsEex7VO/uZoiM8ji7WMU0jTFQ=
+
+Name: org/apache/lucene/queryparser/xml/QueryBuilderFactory.class
+SHA-256-Digest: koSEs5wKPHJ8PHMqcLpAaGRBTG1zH+ahRcny+7yvd9E=
+
+Name: org/apache/lucene/queryparser/surround/parser/QueryParser.class
+SHA-256-Digest: +vp56YrPROzdNQAYtMY9UbrXDths4okuyqrAbMPuqog=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/Boole
+ anQuery2ModifierNodeProcessor.class
+SHA-256-Digest: cuZ380k1BI9+KIe9i9udfUgVapOigO9cTeXi3BcXs+E=
+
+Name: org/apache/lucene/queryparser/flexible/standard/StandardQueryPar
+ ser.class
+SHA-256-Digest: rgQKlbXSK7hRPpUF1siml+ZP2XwwjtNEcbRyzaDqnus=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/ProximityQuery
+ Node$Type.class
+SHA-256-Digest: DRSO90ohjFrrwmcy9a3LvgDOdXLlpOKhFCJ83fcwS0Y=
+
+Name: META-INF/maven/org.eclipse.orbit.bundles/org.apache.lucene.query
+ parser/pom.properties
+SHA-256-Digest: Xngq9o2Ov96L8WnGNwk87Nyt1seDlJCkHi1T6D6Fz0Q=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/OpaqueQueryNod
+ e.class
+SHA-256-Digest: QVc6LWLrkmYSMtc43QpDpbf77Hrhn3CYo4yD4eNUeH4=
+
+Name: org/apache/lucene/queryparser/flexible/core/util/UnescapedCharSe
+ quence.class
+SHA-256-Digest: 1YCe7oFn14W+d5Y1owMHouOTtQMuToo1bG0oyuxaM/8=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/Wildc
+ ardQueryNodeProcessor.class
+SHA-256-Digest: ouMZ0BuKPdnoQCRTE4HTYtmGgA9kSTClTsd8HS5ptJE=
+
+Name: org/apache/lucene/queryparser/surround/query/SimpleTerm$Matching
+ TermVisitor.class
+SHA-256-Digest: R2H687WoVldViIKT1wyMPPlueKuojC+cNvubukOl0vE=
+
+Name: org/apache/lucene/queryparser/xml/builders/RangeQueryBuilder.cla
+ ss
+SHA-256-Digest: YFM/OwnXFp2PQxLzBeph4nDz5mxAIMx+6HPpgwQV3bc=
+
+Name: org/apache/lucene/queryparser/flexible/standard/nodes/BooleanMod
+ ifierNode.class
+SHA-256-Digest: bljMGDKuAEg027W67PSplIO3vQnmJ47M44BYJBE7kmY=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/AnyQueryNode.c
+ lass
+SHA-256-Digest: dI5xMd8fvFQ2K38IFXombqDe+du1oHicaTK0ItZs/yk=
+
+Name: org/apache/lucene/queryparser/surround/parser/QueryParserTokenMa
+ nager.class
+SHA-256-Digest: RKtZdtHVF/L6VSupxHy9OiGY/rvKuAZS2Jp1vZemDDU=
+
+Name: org/apache/lucene/queryparser/ext/ParserExtension.class
+SHA-256-Digest: /UUxKx+pxzNmkgo2oSxUpm7WKlDC+h8P0rVTx+7/47M=
+
+Name: org/apache/lucene/queryparser/xml/builders/BoostingTermBuilder.c
+ lass
+SHA-256-Digest: Ymd/0kOdgTkEhUjOH4jyN+00fBFebF0rCr+BjbG16Ss=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/Boolean
+ QueryNodeBuilder.class
+SHA-256-Digest: QU2cygZJBMQO90wbQKfInDebIE66B542RyfiBgAXZVw=
+
+Name: org/apache/lucene/queryparser/flexible/core/config/Configuration
+ Key.class
+SHA-256-Digest: EHkMpY0JoV+OWWLs3/QTQTftd6532pgf5U8DNS6Da94=
+
+Name: org/apache/lucene/queryparser/flexible/core/builders/QueryTreeBu
+ ilder.class
+SHA-256-Digest: /gXiLIJQ3HyYpmgN1e3p3wfFL1IWoUmRyHZnMWNwAEk=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/Match
+ AllDocsQueryNodeProcessor.class
+SHA-256-Digest: EeEjz0FnD/lnc9HDCamcDuG4CbOviM7DT54GR01fkfE=
+
+Name: org/apache/lucene/queryparser/flexible/standard/parser/EscapeQue
+ rySyntaxImpl.class
+SHA-256-Digest: 8yQ6FEV+6aTUrg3pNkeWlV64UM+9sWRQKUjiP/PiG5w=
+
+Name: org/apache/lucene/queryparser/flexible/standard/parser/StandardS
+ yntaxParser$LookaheadSuccess.class
+SHA-256-Digest: JOCt8I+pU1V6S5FARJBVJfb3MDw3XUvhOPDj8v84tNI=
+
+Name: org/apache/lucene/queryparser/surround/parser/QueryParser$Lookah
+ eadSuccess.class
+SHA-256-Digest: n+dooUprY6ZW4DwmGcz93tfS4TwZFPjB6aMp/KyoJmI=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/Stand
+ ardQueryNodeProcessorPipeline.class
+SHA-256-Digest: rXIYKazbUxowJ4Ro06HLZ5sD3l8cIPMaeHXfX2e+lGk=
+
+Name: org/apache/lucene/queryparser/flexible/core/builders/package-inf
+ o.class
+SHA-256-Digest: 0MEV74L6uK+vp9X1B0RHv9Vlqr8+GmV6cw3jyXvBX30=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/BoostQueryNode
+ .class
+SHA-256-Digest: JEzKME/brgLWUsx/giXkWAtcVnmarKvzAdPE+SfCn2w=
+
+Name: org/apache/lucene/queryparser/xml/builders/DisjunctionMaxQueryBu
+ ilder.class
+SHA-256-Digest: 0gyYTuyX1yMgDGW2ZGYaWM1EIgFXrz4v3Z53k1DUAg0=
+
+Name: org/apache/lucene/queryparser/flexible/core/config/FieldConfig.c
+ lass
+SHA-256-Digest: R2Pyc+VVfQcjZaha/3vbuVlRmbPBXcLRfNeIF4vxvSE=
+
+Name: org/apache/lucene/queryparser/surround/parser/QueryParser$JJCall
+ s.class
+SHA-256-Digest: YPGQKGSE/Cv4AesBheXNLBxk5XfzonZI/7QiY+2uLGY=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/ProximityQuery
+ Node$Type$2.class
+SHA-256-Digest: 064e6fl2YVbHzhi3E7EWzZvNZ2oo5VQ8ZyuS5iuWC0M=
+
+Name: org/apache/lucene/queryparser/xml/builders/UserInputQueryBuilder
+ .class
+SHA-256-Digest: wPQRP5WUnbavcOZfWnCG8XVIja8b7lvlslXqO8q5Fb0=
+
+Name: org/apache/lucene/queryparser/flexible/core/processors/QueryNode
+ ProcessorImpl.class
+SHA-256-Digest: 0m0smla3Fd9uwe49Rv4WQXVisJ6zwTcWikbudGshBPM=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/ValueQueryNode
+ .class
+SHA-256-Digest: AU9ZAwwQR33MTH8GyqRiEG7SiivsOGgW2LXynlLeu5U=
+
+Name: org/apache/lucene/queryparser/surround/query/ComposedQuery.class
+SHA-256-Digest: G2k6jg57IPGgDchl4NCcAzI+Ay8+Qb0xodjyERl0bJw=
+
+Name: org/apache/lucene/queryparser/flexible/core/messages/package-inf
+ o.class
+SHA-256-Digest: BhIB2mm1c0KRS4LnA37LiqDbTXClc5mSxOGEFumRAUQ=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/package-info.c
+ lass
+SHA-256-Digest: tRiBxKmy9uC4na0DwgkazFpj3T3H9yKbkZ+CWdfsne4=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/AndQueryNode.c
+ lass
+SHA-256-Digest: nvU51JssjwlHagA5mAIdtiWB4YizGm3NAuL/hf0BwCs=
+
+Name: org/apache/lucene/queryparser/flexible/core/package-info.class
+SHA-256-Digest: oF7Uzapz7c0RtjvmBx+VH4+fET2ieQXNeaXtikkm8Q8=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/Wildcar
+ dQueryNodeBuilder.class
+SHA-256-Digest: q13NuXJAvu/3pNU8iOXeOVzH+JZLdUZqALEUJ17gyFQ=
+
+Name: org/apache/lucene/queryparser/flexible/standard/config/package-i
+ nfo.class
+SHA-256-Digest: YTnXicRRxs1ywZ9nR11vfZsS7oG4fU0cINvE0lf4ibk=
+
+Name: org/apache/lucene/queryparser/flexible/core/config/package-info.
+ class
+SHA-256-Digest: qVgR+m1+x7Lx1Me9ziNUxtuFVijev1jlSzbgfXBVPIM=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/FuzzyQu
+ eryNodeBuilder.class
+SHA-256-Digest: /0/ssTB698VJPRkc+hKGvXganS7yO9Nljl1xz97E4io=
+
+Name: org/apache/lucene/queryparser/flexible/core/util/QueryNodeOperat
+ ion.class
+SHA-256-Digest: KbqUkRx8z11kpjUKgq70xJbljVhmz98kmFhm1qeH8vE=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/RangeQueryNode
+ .class
+SHA-256-Digest: sKPY6pJ/cvOfszAeC+FMtcpDMkdeMPx2QunCUxBSkjQ=
+
+Name: org/apache/lucene/queryparser/flexible/core/config/QueryConfigHa
+ ndler.class
+SHA-256-Digest: eicpXkcRTJPb5qbTFsrICxmEyHZ4yUzozg04Qa/zFME=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/packa
+ ge-info.class
+SHA-256-Digest: k6pa1t8+5AdeLFlbmtqdvRPZPu+s3CuqI5w47S+i2EY=
+
+Name: org/apache/lucene/queryparser/flexible/core/util/package-info.cl
+ ass
+SHA-256-Digest: ueyrF+q5hNq/IoF1XsjhoHJJc4OfkG5R/86P4EDvKYo=
+
+Name: org/apache/lucene/queryparser/ext/Extensions$Pair.class
+SHA-256-Digest: dTt7ddwnXjgjJH8h/3iUKBWtYBWhXFvnNAm4m8WcjAA=
+
+Name: org/apache/lucene/queryparser/surround/query/RewriteQuery.class
+SHA-256-Digest: agwjPGbClIpF+jqA6aEo2JCLF/8Ksc9uyoWd4fKXnrI=
+
+Name: org/apache/lucene/queryparser/xml/builders/BoostingQueryBuilder.
+ class
+SHA-256-Digest: uHlGJBtFjevl9L3ECytKZPsg6nilHttk3rFV4xhxK+4=
+
+Name: org/apache/lucene/queryparser/flexible/core/QueryNodeException.c
+ lass
+SHA-256-Digest: 7srtu+jTi+063wd3FhAG+4PGAPgNGaVII/hjOowmNLM=
+
+Name: about.html
+SHA-256-Digest: 9PRDwRMcN+8fCeBRvGgs4rMEX71/xgnWQ79EV9a4yAg=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/ModifierQueryN
+ ode$Modifier.class
+SHA-256-Digest: KUkf1HRpDVp4iZjAPFT5RcD/uy01mhLTskmGvaH4vU0=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/TermR
+ angeQueryNodeProcessor.class
+SHA-256-Digest: 68YYayB8CLXmrxF/YaiXfIcbViyry0nW8HJm5X0fjcg=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/ProximityQuery
+ Node$Type$3.class
+SHA-256-Digest: Xe7PNX1Ta9g+gVZQT8Ykyg1iFZTM5vvfP+5pXplAK8k=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/Regex
+ pQueryNodeProcessor.class
+SHA-256-Digest: iucW05l2HX0oXp4/mySlWQTfMNFixg3XBQTSHwhxFcY=
+
+Name: org/apache/lucene/queryparser/flexible/core/parser/EscapeQuerySy
+ ntax$Type.class
+SHA-256-Digest: CdHDEVTqhswFutjAVGcgSwt7PzcDtQNDZ3142jvEl8Q=
+
+Name: org/apache/lucene/queryparser/xml/builders/TermsQueryBuilder.cla
+ ss
+SHA-256-Digest: P0AgDVuAKohMLP16dltQ3zhrRKVY97sg5ayWAV3dm08=
+
+Name: org/apache/lucene/queryparser/flexible/core/nodes/GroupQueryNode
+ .class
+SHA-256-Digest: KM0PuhtsgkCLftjDwmfpknLZTlSEkWg0e8zixvtOS3U=
+
+Name: org/apache/lucene/queryparser/flexible/standard/config/StandardQ
+ ueryConfigHandler.class
+SHA-256-Digest: 3vEjGo8D+FTmK31u4pAqTUrCPyL3leAuTbGWjDPFE50=
+
+Name: org/apache/lucene/queryparser/flexible/standard/config/FieldBoos
+ tMapFCListener.class
+SHA-256-Digest: 1P8z4qGtHQQVyXD0eYBD3p9uNJLBOqZ1/XP/h1wzQqs=
+
+Name: org/apache/lucene/queryparser/surround/query/SimpleTermRewriteQu
+ ery$1.class
+SHA-256-Digest: hLAp9gmHkU0//Ox6xSOa7yNu6cN+HN9eL0JIpv+Arb0=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/package
+ -info.class
+SHA-256-Digest: GPj4cR3ChDIbu+LN9Gd0lhobwQabNWMf49BRyHdUzMc=
+
+Name: org/apache/lucene/queryparser/flexible/standard/config/PointsCon
+ figListener.class
+SHA-256-Digest: IkPpBFDOXD6tOlGEgxFNuzzaoCRJd9eNlYfuZMXbl3o=
+
+Name: org/apache/lucene/queryparser/surround/query/SrndTruncQuery.clas
+ s
+SHA-256-Digest: mgMWVduMHJsgs5pSeKd4kCR1heJSgKfLzkRNCtvuIEo=
+
+Name: org/apache/lucene/queryparser/flexible/core/processors/QueryNode
+ ProcessorImpl$1.class
+SHA-256-Digest: GBnS8VD9lEUll2i/n+D8nI9XTiNj/Vgq/qECrCXsOls=
+
+Name: org/apache/lucene/queryparser/xml/builders/SpanBuilderBase.class
+SHA-256-Digest: su1eSx7VnFkI8knfsD99nt0zRpa5EHUdR0EANWXq9kM=
+
+Name: org/apache/lucene/queryparser/flexible/standard/builders/PrefixW
+ ildcardQueryNodeBuilder.class
+SHA-256-Digest: v095cdbsV6MImTyWU7Sr0XSrPd0dkoMVCRiXTGed79I=
+
+Name: org/apache/lucene/queryparser/flexible/standard/processors/Allow
+ LeadingWildcardProcessor.class
+SHA-256-Digest: eA+HOWdMCq+kDYvbkjFdEBU5hPERlpT1jtHvdf3fGI4=
+

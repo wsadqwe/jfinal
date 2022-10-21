@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    1 引用属性：外部注入-->
+    <bean name="room1" class="com.niit.bean1.Room">
+        <property name="roomNumber" value="A007"/>
+        <property name="tv" ref="tv1"/>
+    </bean>
+
+    <bean name="tv1" class="com.niit.bean1.TV">
+        <property name="price" value="1245"/>
+        <property name="brand" value="TCL"/>
+    </bean>
+
+<!--    1 引用属性：内部注入-->
+    <bean name="room2" class="com.niit.bean1.Room">
+        <property name="roomNumber" value="A008"/>
+        <property name="tv">
+            <bean name="tv2" class="com.niit.bean1.TV">
+                <property name="price" value="2245"/>
+                <property name="brand" value="XiaoMi"/>
+            </bean>
+        </property>
+    </bean>
+
+</beans>

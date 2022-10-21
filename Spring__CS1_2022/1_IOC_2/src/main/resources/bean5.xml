@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+<!--    自动注入-->
+<!--        1.按类型 byType-->
+<!--        2.按名称 byName-->
+<!--        3.构造器-->
+<!--    <bean class="com.niit.autoinject.Room" name="room" autowire="byType">-->
+<!--    </bean>-->
+
+<!--    <bean class="com.niit.autoinject.Sofa" name="sofa111">-->
+<!--        <property name="brand" value="qwerty"/>-->
+<!--    </bean>-->
+
+<!--    <bean class="com.niit.autoinject.Sofa" name="sofa2">-->
+<!--        <property name="brand" value="qwerty"/>-->
+<!--    </bean>-->
+
+    <bean class="com.niit.autoinject.Room" name="room" autowire="byName">
+        <!--        <property name="sofa" ref="sofa111"/>-->
+    </bean>
+
+    <bean class="com.niit.autoinject.Sofa" name="sofa">
+        <property name="brand" value="qwerty"/>
+    </bean>
+
+<!--    <bean class="com.niit.autoinject.Sofa" name="sofa">-->
+<!--        <property name="brand" value="qwerty"/>-->
+<!--    </bean>-->
+</beans>

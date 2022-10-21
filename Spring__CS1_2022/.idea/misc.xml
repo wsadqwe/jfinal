@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/1_IOC_2/pom.xml" />
+        <option value="$PROJECT_DIR$/1_IOC_3_Anno/pom.xml" />
+        <option value="$PROJECT_DIR$/2_AOP_proxyMode/pom.xml" />
+        <option value="$PROJECT_DIR$/2_AOP_/pom.xml" />
+        <option value="$PROJECT_DIR$/2_AOP_XML/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

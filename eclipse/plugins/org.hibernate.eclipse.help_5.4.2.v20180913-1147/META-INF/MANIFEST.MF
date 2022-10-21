@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.hibernate.eclipse.help; singleton:=true
+Built-By: hudson
+Require-Bundle: org.eclipse.help;bundle-version="3.6.0",org.eclipse.he
+ lp.ui;bundle-version="4.0.100"
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Eclipse-SourceReferences: scm:git:https://github.com/jbosstools/jbosst
+ ools-hibernate.git;path="plugins/org.hibernate.eclipse.help";commitId
+ =00c715482d8ecbc40cd82257b0838efdfbfe91bc
+Bundle-Vendor: %Bundle-Vendor.0
+Export-Package: org.hibernate.eclipse.help
+Bundle-Name: %Bundle-Name.0
+Bundle-Version: 5.4.2.v20180913-1147
+Bundle-Localization: plugin
+Bundle-Activator: org.hibernate.eclipse.help.HelpPlugin
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_171
+Eclipse-BundleShape: dir
+
