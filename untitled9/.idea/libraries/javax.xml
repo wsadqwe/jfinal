@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="javax">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jar/javax/javax-inject.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar/javax/javax.faces.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar/jsf/jsf-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar/jsf/jsf-impl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

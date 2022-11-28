@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="untitled13:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/untitled13_war_exploded2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="untitled13" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../jar/javax/javax.faces.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="untitled13/web/Web" />
+    </root>
+  </artifact>
+</component>

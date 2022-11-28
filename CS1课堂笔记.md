@@ -421,6 +421,8 @@ Demo
 
    ​	对那些类不回滚
 
+## 10.21
+
 
 
 ![image-20221021134035007](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221021134035007.png)
@@ -440,3 +442,353 @@ Demo
 ​			接参，传参
 
 ​	D，拦截器，消息转换器，过滤器，文件上传
+
+
+
+
+
+![image-20221024184647350](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221024184647350.png)
+
+![image-20221024184801470](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221024184801470.png)
+
+![image-20221024184843073](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221024184843073.png)
+
+​			在SpringMvc后台进行获取数据
+
+​			用来获取Cookie中的值
+
+​			可以将请求头中变量值映射到控制器的参数中
+
+​			将java对象转为json格式的数据
+
+​			主要用来接收前端传递给后端的请求体中的数据
+
+​			指该类中所有的[API](https://so.csdn.net/so/search?q=API&spm=1001.2101.3001.7020)接口返回的数据，以Json字符串的形式返回给客户端
+
+
+
+## 10.24
+
+![image-20221027001407892](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221027001407892.png)
+
+![image-20221027001548208](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221027001548208.png)
+
+![image-20221027001753263](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221027001753263.png)
+
+![image-20221027140200453](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221027140200453.png)
+
+![image-20221027140334572](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221027140334572.png)
+
+![image-20221028134310006](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221028134310006.png)
+
+![image-20221028134628026](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221028134628026.png)
+
+## 10.28
+
+回顾
+
+![image-20221028140759116](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221028140759116.png)
+
+任务
+
+ A .rest风格
+
+​      rpc风格
+
+​		restful api
+
+​		@Pathvariable
+
+​	
+
+​		07-----11    				13											19
+
+​		web网站									前后端分离									大数据
+
+​		2G/3G						4G											5G
+
+​		手机上网			Andriod、ios          小程序
+
+
+
+
+
+
+
+接口规范
+
+​										RPC												 REST		 B请求                S过滤
+
+查询				getUserById/getUserByName					user/1		get				   get
+
+保存				saveUser														user			post				post
+
+更新				updateUser								  				 user			post				 put
+
+删除				deleteUserById											 user			post				delete
+
+REST（Representational state transfer）:表述层资源状态转移
+
+
+
+
+
+前端请求--->后端：业务逻辑调数据   		--->缓存-->  数据库
+
+实现基础RESTful Demo
+
+​		1.Controller处理器方法
+
+​		2.方法过滤器的配置（解析http动作）
+
+​		3.发起请求（http动作）
+
+​				<input type="hidden" name="_method" value="PUT/DELETE>
+
+JSF：XHTML -----> HTML(包含一些type=hidden的input)
+
+Put:  HTML(包含一些type=hidden的input) ----- >SpringMVC中methodFilter识别
+
+
+
+​	a.SpringMVC执行流程
+
+​	b.基础配置:依赖，web项目，六大组件
+
+​	c.第一个例子
+
+​	d.接收参数：
+
+​		@RequestMapping及其属性
+
+​			@RequestParam
+
+​			@RequestHeader
+
+​			@CookieValue
+
+​	e,消息转化器
+
+​		@RequestBody
+
+​		@ResponseBody
+
+​		@JsonAlias
+
+​		@JsonProperty
+
+​		postman的使用
+
+​	f.域对象
+
+​	g.数据域
+
+​			ModelAndview
+
+​			Modelmap,Model,Map -----》 BindinAwareModelMap
+
+​	h.restful使用
+
+-------
+
+​	i.文件上传
+
+​	j.静态资源放行，视图控制
+
+​	k.拦截器
+
+​	l.异常处理
+
+​	m.全注解
+
+
+
+## 10.31
+
+
+
+回顾
+
+​		1.Restful是什么
+
+​			url接口声明，动作词  --》 名词，接口简化
+
+​		2.@RestController
+
+​			=@Controller + @ResponseBody
+
+​			前端                       后端
+
+​				     ----json---> |fastjson| Object实体
+
+​					 <---json---	|消息转换器|
+
+​		3.消息转换器中的两个类
+
+​				ResquestEntity<>:接受http请求中的数据（header，body)
+
+​				ResponseEntity<>：接受http响应中的数据（header，body)
+
+​	任务：
+
+​		1.项目技术架构
+
+​			SpringMVC/SpringBoot
+
+​		2.文件上传、下载
+
+​				上传
+
+​						<1>,依赖
+
+​						<2>,文件解析器的配置
+
+​						<3>,页面
+
+​							enctype
+
+​							数据格式
+
+​						<4>,handler
+
+​						<5>,存储路径
+
+
+
+​		A。文件上传
+
+​				页面设置三个内容
+
+​				enctype
+
+​				数据格式：
+
+​					结构化数据
+
+​							<input type="text" />
+
+​						关系数据库
+
+​						表单中的数据，Map<k,v>
+
+​					半结构化数据：
+
+​						xml格式
+
+​						json格式
+
+​					非结构化数据：
+
+​						音频，视频，二进制文件
+
+## 11.3
+
+
+
+
+
+![image-20221103085419548](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221103085419548.png)
+
+![image-20221103091134707](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221103091134707.png)
+
+![image-20221103091658045](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221103091658045.png)
+
+## 11.4
+
+![image-20221104121818896](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221104121818896.png)
+
+![image-20221104140655514](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221104140655514.png)
+
+![image-20221104143719050](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221104143719050.png)
+
+</h:dataTable>
+
+​		EL 表达式：方法表达式传参
+
+B，核心标记库：提供强化组件的功能
+
+​		<1>选择标记
+
+​				<f:selectItem itemLabel=" " itemValue=" "/>
+
+​		<2>facet
+
+​		<3>验证器
+
+​		<4>
+
+
+
+
+
+
+
+## 11.10
+
+![image-20221110135359541](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221110135359541.png)
+
+​	![image-20221110135251077](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221110135251077.png)
+
+​	
+
+![image-20221110135434049](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221110135434049.png)
+
+![image-20221111135728537](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221111135728537.png)
+
+![image-20221111135654806](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221111135654806.png)
+
+![image-20221111135617084](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221111135617084.png)
+
+
+
+## 11.11
+
+ SpringMVC拦截器
+
+​		拦截器
+
+​		静态资源放行
+
+
+
+​		aop	:
+
+​				对service层加强（异常，事务，日志）
+
+​				对controller层加强：拦截器
+
+​						handler方法执行前后
+
+​		dispatchServlet
+
+​				SpringMVC中的servlet
+
+​				servlet一般由web容器
+
+
+
+## 11.14
+
+![image-20221117081310530](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221117081310530.png)
+
+![image-20221117081202441](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20221117081202441.png)
+
+
+
+
+
+## 11.17
+
+​	A，jsf遵循MVC设计模式
+
+​		SpringMVC 中： MV     C
+
+​		JSF中：CM常在一个地方
+
+
+
+​	B，值更改事件
+
+​			实现方式
+
+​				1.实现

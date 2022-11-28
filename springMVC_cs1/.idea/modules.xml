@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/3_ModelAndView/3_ModelAndView.iml" filepath="$PROJECT_DIR$/3_ModelAndView/3_ModelAndView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo2_1024/Demo2_1024.iml" filepath="$PROJECT_DIR$/Demo2_1024/Demo2_1024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1_Helloworld/demo1_Helloworld.iml" filepath="$PROJECT_DIR$/demo1_Helloworld/demo1_Helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework2/homework2.iml" filepath="$PROJECT_DIR$/homework2/homework2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springMVC_cs1.iml" filepath="$PROJECT_DIR$/springMVC_cs1.iml" />
+    </modules>
+  </component>
+</project>

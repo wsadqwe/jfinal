@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+<h:body>
+   <center>
+      <h:form>
+         User:<h:inputText id="i+1" value="#{login.user" required="true" validator="#{login.doYouWantLogin}">
+         <f:validateLength meximum="12" for="i+1" disabled="false"/>
+      </h:inputText>
+         <br/>
+         Poss:<h:inputSecret id="i+2" value="#{login.pass}" validatorMessage="密码不正确">
+         <h:outputLable value="Pass"/>
+         <f:validator validatorId="validaotr1"/>
+      </h:inputSecret>
+         <br/>
+         phone:<h:inputText id="i+3" value="#{login.phone}" validatorMessage="电话号不正确">
+         <f:validateRegex pattern="^(13[0-9]|14[01456879]|15[0-35-9]|16[2567]|17[0-8]|18[0-9]|19[0-35-9])\d{8}$￼"/>
+      </h:inputText>
+         <br/>
+         Email:<h:inputText id="i+4" value="#{login.email}" validatorMessage="邮箱格式不正确">
+         <f:validateRegex pattern="^\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$￼"/>
+      </h:inputText>
+         <br/>
+         <h:messages
+         <h:commandButton value="submit1" action="4_validate_success"></h:commandButton>
+      </h:form>
+   </center>
+</h:body>
+</html>

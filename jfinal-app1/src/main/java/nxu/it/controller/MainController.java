@@ -11,7 +11,7 @@ public class MainController extends Controller {
        renderHtml("<h2>It works!</h2>");
     }
     public void hello(){
-        renderQrCode("唱，跳，rap",200,200,'M');
+        renderQrCode("我是一名练习敲代码两年半的女大学生李饱饱，代码我不会，我只会唱，跳，rap",200,200,'M');
     }
     public void bye(){
         renderQrCode("哎呦，你干嘛",200,200,'M');
@@ -31,7 +31,7 @@ public class MainController extends Controller {
         List<String> hometownList=List.of("北京", "天津", "上海", "重庆", "宁夏",
                 "陕西","甘肃","青海","内蒙","四川","河南","河北");
         set("hometownList",hometownList);
-        List<String> hobbies= Arrays.asList("唱", "跳", null, "篮球");
+        List<String> hobbies= Arrays.asList("历史", "计算机", null, "地理");
         set("hobbies",hobbies);
         renderFreeMarker("register.ftl");
     }
